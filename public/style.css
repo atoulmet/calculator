@@ -1,0 +1,138 @@
+@font-face {
+  font-family: 'digital-7';
+  font-style: normal;
+  font-weight: 400;
+  src: url('digital-7/digital-7.ttf');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #45484D;
+}
+
+.header {
+  margin-bottom: 20px;
+}
+
+.calculator {
+  font-family: digital-7;
+  width: 300px;
+  margin: auto;
+  padding : 10px;
+  padding-bottom : 15px;
+  background-color: #EBDDD2;
+  border-radius: 5px;
+}
+
+.mode-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.mode {
+  color: #A1BAA4;
+  background-color: #1A1D1D;
+  width: 25%;
+  padding: 3px;
+  font-size: 14px;
+  text-shadow: 1px 1px rgb(122, 127, 135);
+  border-radius: 3px;
+  text-align: center;
+}
+
+.screen {
+  background-color: #A1BAA4;
+  border:10px solid #363B41;
+  border-top-width: 20px;
+  border-bottom-width: 18px;  
+  margin-bottom: 5px;
+  font-size: 20px;
+  box-shadow:inset 0px 0px 0px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 10px; 
+  text-shadow: 1px 1px rgb(122, 127, 135);
+}
+
+.display-operations {
+  padding: 10px;
+}
+
+.display-result {
+  padding: 10px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  color: #E5E1D5;
+  height: 50px;
+  font-size: 18px;
+  border-radius: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  outline: none;
+}
+
+.button:active {
+  border: 0;
+}
+
+.clear {
+  width: 47%;
+  background-color: #EC6C15;
+  border: 0;
+  border-bottom: #B54A00 8px solid;
+  border-radius: 10px;
+}
+
+.equal {
+  width: 47%;
+  background-color: #24A19D;
+  border: 0;
+  border-bottom: #1B7870 8px solid;
+}
+
+.number {
+  width: 23%;
+  background-color: #45484D;
+  border: 0;
+  border-bottom: #1A1D1D 8px solid;
+}
+
+.divide {
+  width: 23%;
+  background-color: #E3BB1D;
+  border: 0;
+  border-bottom: #A87217 8px solid;  
+}
+
+.multiply {
+  width: 23%;
+  background-color: #C32D2C;
+  border: 0;
+  border-bottom: #8F2520 8px solid;    
+}
+
+.minus {
+  width: 23%;
+  background-color: #8A7BD7;
+  border: 0;
+  border-bottom: #463A85 8px solid;      
+}
+
+.plus {
+  width: 23%;
+  background-color: #47AD2E;
+  border: 0;
+  border-bottom: #358522 8px solid;      
+}
+
+.bottom {
+  width: 36%;
+}
