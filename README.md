@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-A simple calculator.
+A simple calculator. An online version can be found at https://atoulmet.github.io/calculator/
 
 ## Motivation
 
