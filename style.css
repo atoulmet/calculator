@@ -1,15 +1,15 @@
 @font-face {
-  font-family: 'digital-7';
+  font-family: "digital-7";
   font-style: normal;
   font-weight: 400;
-  src: url('digital-7/digital-7.ttf');
+  src: url("./digital-7/digital-7.ttf");
 }
 
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: #45484D;
+  background: #45484d;
 }
 
 .header {
@@ -20,9 +20,9 @@ body {
   font-family: digital-7;
   width: 300px;
   margin: auto;
-  padding : 10px;
-  padding-bottom : 15px;
-  background-color: #EBDDD2;
+  padding: 10px;
+  padding-bottom: 15px;
+  background-color: #ebddd2;
   border-radius: 5px;
 }
 
@@ -34,8 +34,8 @@ body {
 }
 
 .mode {
-  color: #A1BAA4;
-  background-color: #1A1D1D;
+  color: #a1baa4;
+  background-color: #1a1d1d;
   width: 25%;
   padding: 3px;
   font-size: 14px;
@@ -45,14 +45,14 @@ body {
 }
 
 .screen {
-  background-color: #A1BAA4;
-  border:10px solid #363B41;
+  background-color: #a1baa4;
+  border: 10px solid #363b41;
   border-top-width: 20px;
-  border-bottom-width: 18px;  
+  border-bottom-width: 18px;
   margin-bottom: 5px;
   font-size: 20px;
-  box-shadow:inset 0px 0px 0px 3px rgba(0, 0, 0, 0.2);
-  border-radius: 10px; 
+  box-shadow: inset 0px 0px 0px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
   text-shadow: 1px 1px rgb(122, 127, 135);
 }
 
@@ -70,7 +70,7 @@ body {
 }
 
 .button {
-  color: #E5E1D5;
+  color: #e5e1d5;
   height: 50px;
   font-size: 18px;
   border-radius: 10px;
@@ -85,52 +85,52 @@ body {
 
 .clear {
   width: 47%;
-  background-color: #EC6C15;
+  background-color: #ec6c15;
   border: 0;
-  border-bottom: #B54A00 8px solid;
+  border-bottom: #b54a00 8px solid;
   border-radius: 10px;
 }
 
 .equal {
   width: 47%;
-  background-color: #24A19D;
+  background-color: #24a19d;
   border: 0;
-  border-bottom: #1B7870 8px solid;
+  border-bottom: #1b7870 8px solid;
 }
 
 .number {
   width: 23%;
-  background-color: #45484D;
+  background-color: #45484d;
   border: 0;
-  border-bottom: #1A1D1D 8px solid;
+  border-bottom: #1a1d1d 8px solid;
 }
 
 .divide {
   width: 23%;
-  background-color: #E3BB1D;
+  background-color: #e3bb1d;
   border: 0;
-  border-bottom: #A87217 8px solid;  
+  border-bottom: #a87217 8px solid;
 }
 
 .multiply {
   width: 23%;
-  background-color: #C32D2C;
+  background-color: #c32d2c;
   border: 0;
-  border-bottom: #8F2520 8px solid;    
+  border-bottom: #8f2520 8px solid;
 }
 
 .minus {
   width: 23%;
-  background-color: #8A7BD7;
+  background-color: #8a7bd7;
   border: 0;
-  border-bottom: #463A85 8px solid;      
+  border-bottom: #463a85 8px solid;
 }
 
 .plus {
   width: 23%;
-  background-color: #47AD2E;
+  background-color: #47ad2e;
   border: 0;
-  border-bottom: #358522 8px solid;      
+  border-bottom: #358522 8px solid;
 }
 
 .bottom {
