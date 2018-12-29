@@ -3,7 +3,8 @@
 ## Synopsis
 
 A simple calculator. You can try it at https://atoulmet.github.io/calculator/
-<img height="200" src="./img/calculator.gif">
+
+<img height="400" src="./img/calculator.gif">
 
 ## How to
 
