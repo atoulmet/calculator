@@ -2,11 +2,7 @@
 
 ## Synopsis
 
-A simple calculator. An online version can be found at https://atoulmet.github.io/calculator/
-
-## Motivation
-
-Response to a recruitment test.
+A simple calculator. You can try it at https://atoulmet.github.io/calculator/
 
 ## How to
 
