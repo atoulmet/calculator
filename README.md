@@ -2,11 +2,8 @@
 
 ## Synopsis
 
-A simple calculator.
-
-## Motivation
-
-Response to a recruitment test.
+A simple calculator. You can try it at https://atoulmet.github.io/calculator/
+<img src="./img/calculator.gif">
 
 ## How to
 
